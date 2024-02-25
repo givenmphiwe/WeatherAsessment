@@ -50,7 +50,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_marginTop="10dp"
-                android:text="Enter City Name"
+                android:text="Enter Location Name"
                 android:textColor="#FFFFFF"
                 android:textSize="22sp"
                 android:textStyle="bold" />
@@ -79,7 +79,7 @@
                 android:background="@drawable/round_back_secondary_100"
                 android:paddingStart="20dp"
                 android:paddingEnd="30dp"
-                android:text="Update City"
+                android:text="Update weather Location"
                 android:textAllCaps="false"
                 android:textColor="@color/primary" />
 
